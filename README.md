@@ -12,3 +12,4 @@ NOTE: Curent code is missing cfg and sound files needed to run the game
 - CFG file with avatar: 'kinect_full_body.cfg'
 - WAV file with sound: 'water-splash-2.wav'
 - WAV file with sound: 'fire3.wav'
+- WAV file with sound: 'water-splash-2.wav'
