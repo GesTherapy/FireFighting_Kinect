@@ -7,3 +7,7 @@ This project uses the Vizard Virtual Reality Software to create the interactive 
 - http://www.worldviz.com/products/vizard
 - http://projects.ict.usc.edu/mxr/faast/
 - http://www.microsoft.com/en-us/kinectforwindows/
+
+NOTE: Curent code is missing cfg and sound files needed to run the game
+- CFG file with avatar: 'kinect_full_body.cfg'
+- WAV file with sound: 'water-splash-2.wav'
